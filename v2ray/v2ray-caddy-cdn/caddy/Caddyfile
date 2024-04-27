@@ -1,4 +1,4 @@
-proxy1.camelliaer.top {
+your demo {
     root *  /usr/share/caddy/project/english
 
     @websockets {
